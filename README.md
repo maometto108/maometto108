@@ -1,6 +1,5 @@
 # Study Buddy on Laptop
 
-![Studying Person](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 Hello,  
 I'm a 19-year-old Computer Science student, passionate about learning programming, data science, and mathematics.  
