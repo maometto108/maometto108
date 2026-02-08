@@ -11,11 +11,9 @@ This GitHub repository is where I share my study projects, notes, and experiment
 
 ## 📂 Projects
 
-| Project Type        | Description                                             |
-|--------------------|---------------------------------------------------------|
-| **Python Projects** | Scripts for data analysis, automation, and small apps |
-| **Data Science**    | Data analysis, visualization, and ML experiments      |
-| **Notes & Cheatsheets** | PDF & Markdown files for quick revision          |
+| Project Type        | Description                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| **Python Projects** | Car Price Analysis: cleaning and analyzing car sales data, visualizing price trends, studying the impact of year, model, mileage, and condition on prices, and insights on top-selling cars in different states. |
 
 ---
 
@@ -38,5 +36,3 @@ This GitHub repository is where I share my study projects, notes, and experiment
 ## ⚡ Fun Fact
 
 I spend most of my time coding, thinking about problems, and taking notes while learning.
-
-
