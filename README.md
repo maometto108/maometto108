@@ -1,16 +1,36 @@
-## Hi there 👋
+# 📚 Study Buddy on Laptop
 
-<!--
-**maometto108/maometto108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Studying Person](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
-Here are some ideas to get you started:
+مرحباً! 👋   
+هنا هتلاقي كل مشاريع الدراسة الخاصة بي، ملاحظات، وتجارب عملية في البرمجة وتحليل البيانات.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- **Python Projects**: سكريبتات تحليل البيانات، أتمتة، وبرامج صغيرة.  
+- **Data Science**: تحليل بيانات، visualization، machine learning تجريبي.  
+- **Notes & Cheatsheets**: ملفات PDF و Markdown للمراجعة السريعة.
+
+---
+
+## 🛠 Tools & Skills
+
+- **Languages**: Python, SQL, C++  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Tools**: Jupyter Notebook, Git, GitHub
+
+---
+
+## 📌 About Me
+
+
+- دائماً بحب أشارك المشاريع والأفكار مع المجتمع  
+- لو عايز تتواصل: [LinkedIn](#) | [Email](mailto:example@email.com)
+
+---
+
+## 💡 Fun Fact
+
+
