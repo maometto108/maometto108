@@ -1,36 +1,41 @@
-# 📚 Study Buddy on Laptop
+# Study Buddy on Laptop
 
 ![Studying Person](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
-مرحباً! 👋   
-هنا هتلاقي كل مشاريع الدراسة الخاصة بي، ملاحظات، وتجارب عملية في البرمجة وتحليل البيانات.
+Hello,  
+I'm a 19-year-old Computer Science student, passionate about learning programming, data science, and mathematics.  
+This is my GitHub space where I share my study projects, notes, and experiments.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- **Python Projects**: سكريبتات تحليل البيانات، أتمتة، وبرامج صغيرة.  
-- **Data Science**: تحليل بيانات، visualization، machine learning تجريبي.  
-- **Notes & Cheatsheets**: ملفات PDF و Markdown للمراجعة السريعة.
+- **Python Projects**: Scripts for data analysis, automation, and small applications.  
+- **Data Science**: Data analysis, visualization, and introductory machine learning projects.  
+- **Notes & Cheatsheets**: PDF and Markdown files for quick revision.
 
 ---
 
-## 🛠 Tools & Skills
+## Skills & Tools
 
-- **Languages**: Python, SQL, C++  
+- **Programming Languages**: Python, SQL, C++  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Math & Concepts**: Linear Algebra, Statistics, Math for Data Science  
 - **Tools**: Jupyter Notebook, Git, GitHub
 
 ---
 
-## 📌 About Me
+## About Me
 
-
-- دائماً بحب أشارك المشاريع والأفكار مع المجتمع  
-- لو عايز تتواصل: [LinkedIn](#) | [Email](mailto:example@email.com)
+- A Computer Science student who loves programming and exploring new data science techniques.  
+- Always eager to share projects and ideas with the community.  
+- Contact me: [LinkedIn](#) | [Email](mailto:example@email.com)
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
+
+I spend most of my time coding, thinking about problems, and taking notes while learning.
+
 
 
